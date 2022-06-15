@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\05-NumeroPositivoONegativo\05-NumeroPositivooNegativo\bin\Debug\05-NumeroPositivooNegativo.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\05-NumeroPositivoONegativo\05-NumeroPositivooNegativo\bin\Debug\05-NumeroPositivooNegativo.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\05-NumeroPositivoONegativo\05-NumeroPositivooNegativo\obj\Debug\05-NumeroPositivooNegativo.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\05-NumeroPositivoONegativo\05-NumeroPositivooNegativo\obj\Debug\05-NumeroPositivooNegativo.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\05-NumeroPositivoONegativo\05-NumeroPositivooNegativo\obj\Debug\05-NumeroPositivooNegativo.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\05-NumeroPositivoONegativo\05-NumeroPositivooNegativo\obj\Debug\05-NumeroPositivooNegativo.csprojAssemblyReference.cache
